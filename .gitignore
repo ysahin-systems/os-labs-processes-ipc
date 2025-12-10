@@ -1,0 +1,14 @@
+# Derlenmiş binary'ler
+a.out
+*.o
+*.out
+*.exe
+
+# Editor / IDE dosyaları
+*.swp
+*~
+.vscode/
+.idea/
+
+# Diğer geçici dosyalar
+*.log
